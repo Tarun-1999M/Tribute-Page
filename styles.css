@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255,250,205);
+}
+
+.content{
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    margin-top:2px;
+    padding-top:10px;
+    margin-bottom: 0;
+}
+
+
+#img-div{
+    width:90%;
+    margin:0 auto;
+    
+}
+img{
+    display:block;
+    max-width:100%;
+}
+
+.lists{
+    margin:0 auto;
+    width:600px;
+}
+.name{
+    text-align: right;
+    margin-top:2px;
+}
+
+li{
+    margin:10px 0;
+}
+
+.content em{
+    margin-left: 40px;
+}
